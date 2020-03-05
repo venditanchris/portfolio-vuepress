@@ -1,10 +1,13 @@
 ---
-title: Content management and auto deployment for VuePress
-date: 2018-08-09 17:49:28 +0000
-excerpt: This works like expected, this text is only visible on the front page where all the journal posts are listed
+title: 16 Must-Have eCommerce App Features
+date: 2018-08-09T17:49:28.000+00:00
+excerpt: 7 MIN READ More and more retailers are seeing the benefits of improving their
+  mobile offering, whether that is through taking the initial steps of getting a mobile-responsive
+  site or diving into the exciting world of app commerce. The impact of mobile shoppers
+  habits’...
 
 ---
-# Content management and auto deployment for VuePress
+# 16 Must-Have eCommerce App Features
 
 Let's check out how we can automatically deploy our VuePress sites and manage the content from within Forestry.
 
